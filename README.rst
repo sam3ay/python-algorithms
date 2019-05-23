@@ -1,9 +1,8 @@
 =================
-python-algorithms
+Python-algorithms
 =================
 
-
-.. image:: https://img.shields.io/pypi/v/python_algorithms.svg
+[//]: # (.. image:: https://img.shields.io/pypi/v/python_algorithms.svg
         :target: https://pypi.python.org/pypi/python_algorithms
 
 .. image:: https://img.shields.io/travis/sam3ay/python_algorithms.svg
@@ -11,8 +10,7 @@ python-algorithms
 
 .. image:: https://readthedocs.org/projects/python-algorithms/badge/?version=latest
         :target: https://python-algorithms.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
+        :alt: Documentation Status)
 
 
 
@@ -20,7 +18,7 @@ Implementation of Algorithms in Python 3
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://python-algorithms.readthedocs.io.
+* Documentation: WIP
 
 
 Features
