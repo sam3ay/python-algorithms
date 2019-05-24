@@ -17,3 +17,5 @@ def count_letters(searchstring):
     """
     letter_list = re.findall(r'\S', searchstring)
     return Counter(letter_list)
+
+# print(*map(input().count, "ACGT")) naive solution IO bound
